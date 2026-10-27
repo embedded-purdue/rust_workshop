@@ -4,7 +4,7 @@ ENTIRELY FICTIONAL hardware for this course.
 
 ## What it does
 
-TF-01 reads altitude and vertical speed, runs your controller 50 times per simulated second, and sends equal commands to four virtual motors. It controls height only. It starts on the ground and aims for 2 meters. At 5 seconds, a constant downward gust begins.
+AF-01 reads altitude and vertical speed, runs your controller 50 times per simulated second, and sends equal commands to four virtual motors. It controls height only. It starts on the ground and aims for 2 meters. At 5 seconds, a constant downward gust begins.
 
 ## Pinout
 

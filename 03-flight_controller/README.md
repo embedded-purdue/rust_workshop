@@ -5,7 +5,7 @@ Read sensor registers, store decoded measurements, add I and D to an altitude co
 
 ## Files
 
-- [TF01-DATASHEET.md](TF01-DATASHEET.md): pin map, units, timing, and firmware interface.
+- [AF01-DATASHEET.md](AF01-DATASHEET.md): pin map, units, timing, and firmware interface.
 - [controller.rs](controller.rs): TODOs for reading registers, decoding, and storing samples.
 - [pid.rs](pid.rs): your student firmware. This file is the module used by the firmware builder.
 - [Board app](../web/drone.html): clickable pins, fake bootloader, and flight playback.

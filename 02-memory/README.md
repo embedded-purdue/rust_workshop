@@ -1,6 +1,6 @@
 # 02: Memory, ownership, and borrowing
 
-**Time: 10–25 minutes.** [Previous: print and loops](../01-print_loops/README.md) · [Next: flight controller](../03-flight_controller/README.md)
+**Time: 10-25 minutes MAX** [Previous: print and loops](../01-print_loops/README.md) · [Next: flight controller](../03-flight_controller/README.md)
 
 ## Goal
 
