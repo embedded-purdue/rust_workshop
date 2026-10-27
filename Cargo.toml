@@ -8,11 +8,11 @@ publish = false
 
 [[bin]]
 name = "hello"
-path = "01-hello_world/main.rs"
+path = "01-print_loops/main.rs"
 
 [[bin]]
 name = "hello-solution"
-path = "01-hello_world_sln/main.rs"
+path = "01-print_loops/sol/main.rs"
 
 [[bin]]
 name = "memory"
@@ -20,4 +20,4 @@ path = "02-memory/main.rs"
 
 [[bin]]
 name = "memory-solution"
-path = "02-memory_sln/main.rs"
+path = "02-memory/sol/main.rs"

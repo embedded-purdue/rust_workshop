@@ -4,7 +4,7 @@ fn main() {
     loop {
         println!("Jared Goff is the goat");
         counter += 1;
-        if (counter == 17) {
+        if counter == 17 {
             break;
         }
     }

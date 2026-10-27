@@ -47,11 +47,11 @@ mod tests {
 pub mod flight;
 #[path = "../03-flight_controller/pid.rs"]
 pub mod pid;
-#[path = "../03-flight_controller_sln/pid.rs"]
+#[path = "../03-flight_controller/sol/pid.rs"]
 pub mod reference_pid;
 
 #[path = "../03-flight_controller/controller.rs"]
 pub mod controller;
-#[path = "../03-flight_controller_sln/controller.rs"]
+#[path = "../03-flight_controller/sol/controller.rs"]
 pub mod reference_controller;
 pub mod sensor;
