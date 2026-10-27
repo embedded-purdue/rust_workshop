@@ -1,0 +1,23 @@
+[package]
+name = "rust-hour"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[dependencies]
+
+[[bin]]
+name = "hello"
+path = "01-hello_world/main.rs"
+
+[[bin]]
+name = "hello-solution"
+path = "01-hello_world_sln/main.rs"
+
+[[bin]]
+name = "memory"
+path = "02-memory/main.rs"
+
+[[bin]]
+name = "memory-solution"
+path = "02-memory_sln/main.rs"
