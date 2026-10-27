@@ -1,5 +1,8 @@
 # Embedded Rust Workshop
 
+https://docs.google.com/presentation/d/17qqcQKzA-OLw6lpu3uTMDN6e2AuPj4YBUoLNR_LbsRI/edit?usp=sharing
+
+
 Print first Rust message, explore ownership and borrowing, then read simulated sensor registers and write an altitude controller for a fictional drone.
 
 [Start exercise 01](01-print_loops/README.md) · [Flight worksheet](03-flight_controller/README.md) · [Sensor datasheet](03-flight_controller/TF01-DATASHEET.md)
